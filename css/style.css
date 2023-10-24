@@ -6,6 +6,7 @@
 
 body{
     background-color: rgb(44, 80, 80);
+    background-image: linear-gradient(to right, rgb(86, 181, 181), rgb(4, 22, 22));
 }
 
 .container{
@@ -22,6 +23,7 @@ body{
     margin: auto;
     padding: 5px;
     margin-top: 10px;
+    border-radius: 5px;
 }
 
 #text-Calc{
